@@ -6,7 +6,7 @@ namespace PatternsHomeWorkGit.Console
     {
         public static void Main(string[] args)
         {
-            console.WriteLine("Hello world");
+            console.WriteLine("salve mundi");
             console.ReadKey();
         }
     }
